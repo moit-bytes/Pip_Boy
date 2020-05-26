@@ -9,6 +9,8 @@
 * Javascript
 * JQuery
 * Bootstrap
+<br/>
+**The website currently is not customized for mobile users and therefore it's recommended to run the website on a desktop or laptop.**
    
 <br/>
 
