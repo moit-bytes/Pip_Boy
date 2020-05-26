@@ -3,15 +3,15 @@
 
 **A very simple template which corresponds to the Pip-Boy Fallout IV UI. The technologies used to build it are as follows :-**
 <br/>
-<ul>
-  <li>HTML 5<\ul>
-  <li>CSS<\li>
-  <li>Javascript<\li>
-  <li>JQuery<\li>
-  <li>Bootstrap<\li>
- <\ul>
+
+* HTML 5
+* CSS
+* Javascript
+* JQuery
+* Bootstrap
    
- <br/>
- * [Website]()
+<br/>
+
+* Check out the website [here](https://moit-bytes.github.io/Pip_Boy/)
  
     
